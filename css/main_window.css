@@ -1,0 +1,60 @@
+QStatusBar{
+        border-top: 1px solid #c0c0c0;
+}
+
+QTreeView {
+        border: none;
+        border-right: 1px solid #c0c0c0;
+}
+
+QStatusBar::item {
+        border: 0px solid black;
+}
+
+LogEditor QListView {
+        border: 0px;
+        border-right: 1px solid #c0c0c0;
+}
+
+LogEditor QTextBrowser {
+        border: 0px;
+        border-bottom: 1px solid #c0c0c0;
+}
+
+sp_node_editor QLabel#tag {
+        background: white;
+        border: 1px solid #c0c0c0;
+}
+
+QToolBar {
+        border: none;
+        border-bottom: 1px solid #c0c0c0;
+}
+
+#nodeTags {
+        border-bottom: 1px solid #c0c0c0;
+}
+
+#tableOfContents {
+        border-left: 1px solid #c0c0c0;
+}
+
+#mainMenuBar {
+        border: none;
+        border-bottom: 1px solid #c0c0c0;
+}
+
+#editorDocTitle {
+        font-size: 14pt;
+        background-color: #e0ebf9;
+        border-bottom: 2px solid #91c3fd;
+}
+
+#sidebar {
+        background: #404244;
+        border: none;
+}
+
+#filterLineEditContainer {
+        border-right: 1px solid #c0c0c0;
+}
